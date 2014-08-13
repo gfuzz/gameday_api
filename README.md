@@ -1,5 +1,5 @@
 # GamedayApi
-
+[ ![Codeship Status for gfuzz/FanClash](https://www.codeship.io/projects/68442240-0562-0132-6e2b-32730fef382b/status)](https://www.codeship.io/projects/30887)
 TODO: Write a gem description
 
 ## Installation
